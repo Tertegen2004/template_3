@@ -171,11 +171,6 @@
 .home .btn:hover {
     padding-right: 50px;
 }
-@media (max-width:767px) {
-    .home .btn {
-        font-size: 11px;
-    }
-}
 
 /* end-home */
 /* start-cars */
