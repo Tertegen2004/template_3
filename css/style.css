@@ -171,6 +171,11 @@
 .home .btn:hover {
     padding-right: 50px;
 }
+@media (max-width:767px) {
+    .home .btn {
+        font-size: 15px;
+    }
+}
 
 /* end-home */
 /* start-cars */
@@ -178,9 +183,9 @@
     text-align: center;
     padding: 0 20px 20px;
 }
-.cars p:first-of-type{
-    font-size: 20px;
+.cars h2{
     color: var(--main-color);
+    font-size: 30px;
 }
 .cars h3{
     font-size: 35px;
